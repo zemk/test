@@ -12,9 +12,10 @@
 
 .cards-item {
   padding: 25px 25px 37px 31px;
+  margin-bottom: 30px;
   width: 270px;
   min-height: 430px;
-  background: #FFFFFF;
+  background-color: #FFFFFF;
   -webkit-box-shadow: 0px 15px 50px rgba(67, 76, 109, 0.08);
           box-shadow: 0px 15px 50px rgba(67, 76, 109, 0.08);
 }
@@ -36,6 +37,7 @@
   line-height: 118.19%;
   width: 214px;
   margin-bottom: 33px;
+  min-height: 45px;
 }
 
 .cards-img {
@@ -55,6 +57,7 @@
 }
 
 .cards-lists {
+  min-height: 94px;
   margin-bottom: 18px;
 }
 
@@ -110,5 +113,6 @@
   text-decoration: line-through;
   color: rgba(44, 59, 160, 0.6);
   text-align: right;
+  min-height: 16px;
 }
 /*# sourceMappingURL=main.css.map */
